@@ -11,7 +11,7 @@ I'm Taron Aleksanyan, a frontend engineer with a keen interest in creating excep
 # Get in touch
 + [Portfolio](https://musefuldev.world/)
 + [Linkedin](https://www.linkedin.com/in/taronaleksanyan/)
-+ [Whatsapp](https://wa.me/37498528491)
++ [Whatsapp](https://wa.me/37477849904)
 + [Telegram](https://t.me/taron3)
 
 Feel free to reach out and let's connect!
