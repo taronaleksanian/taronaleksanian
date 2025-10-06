@@ -2,7 +2,8 @@
 
 I'm Taron Aleksanyan, a frontend engineer with a keen interest in creating exceptional user experiences. I enjoy tackling complex problems and delivering high-quality code.
 
-+ 🔭 I’m currently working on a cross-platform project
++ 💻 Top rated freelancer at Upwork
++ 🔭 I’m currently working on a shopify AI chatbot app with RemixJS
 + 🎓 I studied @ [Tumo Center Of Creative Technologies](https://tumo.org/) and The [National Polytechnic University of Armenia](https://polytech.am/en/home/)
 + 🌱 I’m currently learning VueJS
 + 🚀 I'm a comunity member at [EU TUMO Convergence Center](https://www.convergence.center/)
